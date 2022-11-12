@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    /*! height: 97px; */
+    margin: auto;
+}
+
+#main{
+    height: 303px;
+    width: 240px;
+    background-color: #8be9e9;
+    
+    margin: auto;
+    
+    margin-top: 31px;
+    border-radius: 16px;
+    border: solid green 3px;
+}
+.img{
+    margin-left: 50px;
+    height: 129px;
+    border-radius: 100%;
+}
+.h1{
+    color: #ed79e0;
+}
